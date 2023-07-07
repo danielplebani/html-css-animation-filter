@@ -16,4 +16,23 @@
 }
 /*exercise 2*/
 
+.ex-3-square:hover{
+    border-radius: 50%;
+}
+
+.ex-3-square{
+    transition: 4s;
+}
+/*exercise 3*/
+
+.ex-3-square:hover{
+    border-radius: 50%;
+}
+
+.ex-4-square{
+    transition: 4s;
+}
+/*exercise 4*/
+
+
 
