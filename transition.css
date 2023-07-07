@@ -63,3 +63,24 @@
 }
 /*exercise 7*/
 
+.ex-8-img:hover{
+    filter: grayscale(100%);
+    border-radius: 20%;
+}
+
+.ex-8-img{
+    transition: 4s;
+}
+/*exercise 8*/
+
+.ex-9-img:hover{
+    filter: grayscale(100%);
+    border-radius: 20%;
+    width: 500px;
+}
+
+.ex-9-img{
+    transition: 4s;
+}
+/*exercise 9*/
+
