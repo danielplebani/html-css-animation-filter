@@ -6,3 +6,14 @@
     transition: 4s;
 }
 /*exercise 1*/
+
+.ex-2-square:active{
+    width: 540px;
+}
+
+.ex-2-square{
+    transition: 4s;
+}
+/*exercise 2*/
+
+
