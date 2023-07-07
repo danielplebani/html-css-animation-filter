@@ -35,7 +35,13 @@
 /*exercise 4*/
 
 .ex-5-square:hover{
-    opacity: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.ex-5-square:active{
+    width: 30px;
+    height: 30px;
 }
 
 .ex-5-square{
