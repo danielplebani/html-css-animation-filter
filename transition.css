@@ -84,3 +84,54 @@
 }
 /*exercise 9*/
 
+@keyframes giro{
+    0% {
+        transform: rotate(1turn);
+    }
+}
+
+.ex-10-icon{
+    animation: giro 4s;
+    animation-iteration-count: infinite;
+}
+/*exercise 10*/
+
+@keyframes giro2{
+    0% {
+        transform: rotate(0);
+    }
+
+    75%{
+        transform: rotate(300deg);
+    }
+
+    100%{
+        transform: rotate(0);
+    }
+}
+
+.ex-11-icon:hover{
+    animation: giro2 4s;
+    animation-iteration-count: infinite;
+}
+/*exercise 11*/
+
+@keyframes giro3{
+    0% {
+        transform: rotate(0);
+    }
+
+    75%{
+        transform: rotate(300deg);
+    }
+
+    100%{
+        transform: rotate(0);
+    }
+}
+
+.ex-12-icon{
+    animation: giro3 4s;
+    animation-iteration-count: infinite;
+}
+/*exercise 12*/
